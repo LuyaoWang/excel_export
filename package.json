@@ -1,0 +1,14 @@
+{
+  "name": "excelParse",
+  "version": "0.0.1",
+  "description": "a small tool used to parse the excel",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luyao wang<sei_wly2010@126.com>",
+  "license": "MIT",
+  "dependencies": {
+    "excel-export":"^0.5.1"
+  }
+}

@@ -1,0 +1,10 @@
+This config file is parsed by rows. Do not change the sequence of each item. 
+Please enter the txt files address:
+./txt
+need cd274, enter (yes/no)?
+yes
+The number of other cols:
+2
+Please enter the name of parse items:
+hsa-miR-424
+hsa-miR-424*
